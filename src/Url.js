@@ -1,0 +1,1 @@
+export const baseUrl='https://mynotebook-lubo.onrender.com/'

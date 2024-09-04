@@ -1,0 +1,55 @@
+/* src/pages/About.css */
+
+.container {
+    max-width: 900px;
+  }
+  
+  h1, h2 {
+    margin-bottom: 20px;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+  }
+  
+  h2 {
+    font-size: 2rem;
+  }
+  
+  .lead {
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+  }
+  
+  .feature-section, .team-section, .contact-section {
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .feature-section {
+    background-color: #f8f9fa;
+  }
+  
+  .team-section {
+    background-color: #e9ecef;
+  }
+  
+  .contact-section {
+    background-color: #fdfd96;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+  }
+  
+  ul li i {
+    color: green;
+    margin-right: 10px;
+  }
+  
